@@ -5,3 +5,5 @@
 #### View My Week3 Assignment Solution [HERE](https://vishakan-subramanian.github.io/Web-Development/Week3/)
 
 #### View My Week4 Assignment Solution [HERE](https://vishakan-subramanian.github.io/Web-Development/Week4/)
+
+#### View My Week5 Assignment Solution [HERE](https://vishakan-subramanian.github.io/Web-Development/Week5/)
